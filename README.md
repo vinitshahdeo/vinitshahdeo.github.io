@@ -12,3 +12,9 @@ My charitable motivation, coupled with a passion for what I am doing, inspires m
 
 I love experimenting and developing using new and challenging technologies. It's a great feeling for me when I am able to help someone. I love to mentor people.
 
+### I'm Social
+
+- Facebook
+- Instagram
+- Twitter
+
