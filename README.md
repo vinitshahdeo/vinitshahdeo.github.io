@@ -1,5 +1,7 @@
 # Hello World :wave: <br> I'm [Vinit Shahdeo](http://vinitshahdeo.github.io/) :cowboy_hat_face:
 
+ 
+
 ```javascript
 
 
@@ -41,7 +43,7 @@ ___  ___       ______          _    __      _ _       _
 
 ### :point_right: [Click here](http://vinitshahdeo.github.io/) to visit my portfolio.
 
-----
+<a href="https://twitter.com/Vinit_Shahdeo"><img src="images/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/vinit.shahdeo"><img src="images/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vinitshahdeo/"><img src="images/linkedin.png" width="32px" height="32px"></a>
 
 #### :handshake: Learn more about me: <br><br>
 
@@ -51,3 +53,5 @@ ___  ___       ______          _    __      _ _       _
 - :white_check_mark: [My Passion Story](https://passionconnect.in/passionstory/vinit-shahdeo) <br>
 
 -----
+
+[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
