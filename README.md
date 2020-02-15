@@ -1,5 +1,4 @@
-# Hello World :wave: <br> I'm [Vinit Shahdeo](http://vinitshahdeo.github.io/) :cowboy_hat_face:
-
+# Hello World :wave: <br> I'm [Vinit Shahdeo](http://vinitshahdeo.github.io/) :cowboy_hat_face: <br><br>
  
 
 ```javascript
@@ -44,6 +43,8 @@ ___  ___       ______          _    __      _ _       _
 ### :point_right: [Click here](http://vinitshahdeo.github.io/) to visit my portfolio.
 
 <a href="https://twitter.com/Vinit_Shahdeo"><img src="images/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/vinit.shahdeo"><img src="images/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vinitshahdeo/"><img src="images/linkedin.png" width="32px" height="32px"></a>
+
+<br>
 
 #### :handshake: Learn more about me: <br><br>
 
