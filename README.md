@@ -52,7 +52,7 @@ ___  ___       ______          _    __      _ _       _
 
 ### :handshake: Learn more about me: <br><br>
 
-| <img src="./images/gallery/Vinit%20Shahdeo.jpg" width="150px" height="150px">  | <img src="images/gallery/VINIT%20SHAHDEO%20POSTMAN%20SE.jpeg" width="150px" height="150px">  | <img src="images/gallery/Vinit%20Shahdeo%20-%20VINHACK%20SPEAKER.jpeg" width="150px" height="150px">  | <img src="images/gallery/VINIT%20SHAHDEO%20-%20CONVOCATION%20VIT.jpeg" width="150px" height="150px">  |
+| <img src="./images/gallery/Vinit%20Shahdeo.jpg" width="150px" height="150px">  | <img src="images/gallery/VINIT%20SHAHDEO%20POSTMAN%20SE.jpeg" width="150px" height="150px">  | <img src="images/gallery/Vinit%20Shahdeo%20-%20VINHACK%20SPEAKER.jpeg" width="150px" height="150px">  | <img src="images/gallery/Vinit%20Shahdeo%20-%20Speaker.jpeg" width="150px" height="150px">  |
 |---|---|---|---|
 | <p align="center"> :desktop_computer: <br> [Developer Story by GeekTrust](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/) </p>  | <p align="center"> :bulb: <br> [My Internship Experience at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) </p> | <p align="center"> :dart: <br> [Placement Story by PrepBytes](https://www.prepbytes.com/preparation-bytes/motivational-stories-placement-success-after-rejections) </p> | <p align="center"> :white_check_mark: <br> [My Passion Story](https://passionconnect.in/passionstory/vinit-shahdeo) </p>  |
 
