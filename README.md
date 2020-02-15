@@ -1,4 +1,4 @@
-# Hello World, I'm [Vinit Shahdeo](http://vinitshahdeo.github.io/) :cowboy_hat_face:
+# Hello World, <br> I'm [Vinit Shahdeo](http://vinitshahdeo.github.io/) :cowboy_hat_face:
 
 ```js
 
