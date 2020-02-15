@@ -64,6 +64,9 @@ ___  ___       ______          _    __      _ _       _
 
 - :white_check_mark: **[Follow me on Instagram]().** <br><br>
 
+
+<img src="images/thankyou.png" width=30% height=30%/>
+
 -----
 
 [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
