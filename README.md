@@ -1,6 +1,6 @@
-# Hello World, <br> I'm [Vinit Shahdeo](http://vinitshahdeo.github.io/) :cowboy_hat_face:
+# Hello World :wave: <br> I'm [Vinit Shahdeo](http://vinitshahdeo.github.io/) :cowboy_hat_face:
 
-```js
+```javascript
 
 
  _    _      _                            _                  
@@ -39,15 +39,15 @@ ___  ___       ______          _    __      _ _       _
 
 ```
 
-### [Click here](http://vinitshahdeo.github.io/) to visit my portfolio.
+### :point_right: [Click here](http://vinitshahdeo.github.io/) to visit my portfolio.
 
 ----
 
-Learn more about me:
+#### :handshake: Learn more about me:
 
-- [Developer Story by GeekTrust](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)
-- [My Internship Experience at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f)
-- [Placement Story by PrepBytes](https://www.prepbytes.com/preparation-bytes/motivational-stories-placement-success-after-rejections)
-- [My Passion Story](https://passionconnect.in/passionstory/vinit-shahdeo)
+- :desktop_computer: [Developer Story by GeekTrust](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)
+- :bulb: [My Internship Experience at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f)
+- :dart: [Placement Story by PrepBytes](https://www.prepbytes.com/preparation-bytes/motivational-stories-placement-success-after-rejections)
+- :white_check_mark: [My Passion Story](https://passionconnect.in/passionstory/vinit-shahdeo)
 
 -----
