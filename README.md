@@ -43,11 +43,11 @@ ___  ___       ______          _    __      _ _       _
 
 ----
 
-#### :handshake: Learn more about me:
+#### :handshake: Learn more about me: <br><br>
 
-- :desktop_computer: [Developer Story by GeekTrust](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)
-- :bulb: [My Internship Experience at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f)
-- :dart: [Placement Story by PrepBytes](https://www.prepbytes.com/preparation-bytes/motivational-stories-placement-success-after-rejections)
-- :white_check_mark: [My Passion Story](https://passionconnect.in/passionstory/vinit-shahdeo)
+- :desktop_computer: [Developer Story by GeekTrust](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/) <br><br>
+- :bulb: [My Internship Experience at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) <br><br>
+- :dart: [Placement Story by PrepBytes](https://www.prepbytes.com/preparation-bytes/motivational-stories-placement-success-after-rejections) <br><br>
+- :white_check_mark: [My Passion Story](https://passionconnect.in/passionstory/vinit-shahdeo) <br>
 
 -----
