@@ -40,18 +40,22 @@ ___  ___       ______          _    __      _ _       _
 
 ```
 
-### :point_right: [Click here](http://vinitshahdeo.github.io/) to visit my portfolio.
+### :point_right: [Click here](http://vinitshahdeo.github.io/) to visit my portfolio. 
+
+<br>
+
+[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/vinitshahdeo.github.io/links/7)
 
 <a href="https://twitter.com/Vinit_Shahdeo"><img src="images/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/vinit.shahdeo"><img src="images/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vinitshahdeo/"><img src="images/linkedin.png" width="32px" height="32px"></a>
 
 <br>
 
-#### :handshake: Learn more about me: <br><br>
+### :handshake: Learn more about me: <br><br>
 
-- :desktop_computer: [Developer Story by GeekTrust](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/) <br><br>
-- :bulb: [My Internship Experience at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) <br><br>
-- :dart: [Placement Story by PrepBytes](https://www.prepbytes.com/preparation-bytes/motivational-stories-placement-success-after-rejections) <br><br>
-- :white_check_mark: [My Passion Story](https://passionconnect.in/passionstory/vinit-shahdeo) <br>
+- #### :desktop_computer: [Developer Story by GeekTrust](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/) <br><br>
+- #### :bulb: [My Internship Experience at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) <br><br>
+- #### :dart: [Placement Story by PrepBytes](https://www.prepbytes.com/preparation-bytes/motivational-stories-placement-success-after-rejections) <br><br>
+- #### :white_check_mark: [My Passion Story](https://passionconnect.in/passionstory/vinit-shahdeo) <br>
 
 -----
 
