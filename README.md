@@ -97,4 +97,4 @@ myRepos.forEach((repo) => {
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=follow%20@vinitshahdeo&style=flat&logo=github)](https://github.com/vinitshahdeo/)
 
-<sub><strong>:raised_hand: If you find a bug :bug: or think something could be better, please file an issue!</strong></sub>
+<sub><strong>:raised_hand: If you find a bug or think something could be better, please file an issue! :bug:</strong></sub>
