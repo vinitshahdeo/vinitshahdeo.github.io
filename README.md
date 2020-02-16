@@ -56,7 +56,9 @@ ___  ___       ______          _    __      _ _       _
 |---|---|---|---|
 | <p align="center"> :desktop_computer: <br> [Developer Story by GeekTrust](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/) </p>  | <p align="center"> :bulb: <br> [My Internship Experience at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) </p> | <p align="center"> :dart: <br> [Placement Story by PrepBytes](https://www.prepbytes.com/preparation-bytes/motivational-stories-placement-success-after-rejections) </p> | <p align="center"> :white_check_mark: <br> [My Passion Story](https://passionconnect.in/passionstory/vinit-shahdeo) </p>  |
 
-### <br> :wave: I'm social! <br>
+<br>
+
+### :wave: I'm social! <br>
 
 - :white_check_mark: **[Connect with me on LinkedIn]().** <br>
 
