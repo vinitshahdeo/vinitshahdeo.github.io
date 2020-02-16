@@ -69,4 +69,30 @@ ___  ___       ______          _    __      _ _       _
 
 -----
 
-[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
+```javascript
+
+
+/**
+ *
+ * {github.repos}: https://github.com/vinitshahdeo?tab=repositories
+ *
+ */
+console.log(`Thank you for visitng my website! Have a look at my {github.repos}`);
+
+myRepos.forEach((repo) => {
+
+   if(repo.isAwesome()) {
+   
+       starRepository(repo); // thanks in advance;
+   
+   }
+
+})
+
+```
+
+----
+
+<sub><strong>If you find a bug or think something could be better, please file an issue!</strong></sub>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=follow%20@vinitshahdeo&style=flat&logo=github)](https://github.com/vinitshahdeo/)
