@@ -93,8 +93,12 @@ myRepos.forEach((repo) => {
 
 ----
 
-<img src="images/thankyou.png" width=30% height=30%/>
+
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=follow%20@vinitshahdeo&style=flat&logo=github)](https://github.com/vinitshahdeo/)
 
 <sub><strong>:raised_hand: If you find a bug or think something could be better, please file an issue! :bug:</strong></sub>
+
+<br><img src="images/thankyou.png" width=30% height=30%/><br>
+
+[![Vinit Shahdeo](https://forthebadge.com/images/badges/powered-by-water.svg)](https://github.com/vinitshahdeo) [![Vinit Shahdeo](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo)
