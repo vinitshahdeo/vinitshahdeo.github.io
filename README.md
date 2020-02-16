@@ -81,7 +81,7 @@ myRepos.forEach((repo) => {
 
    if(repo.isAwesome()) {
    
-       starRepository(repo); // thanks in advance;
+       starRepository(repo); // thanks in advance ッ
    
    }
 
