@@ -65,8 +65,6 @@ ___  ___       ______          _    __      _ _       _
 - :white_check_mark: **[Follow me on Instagram]().** <br><br>
 
 
-<img src="images/thankyou.png" width=30% height=30%/>
-
 -----
 
 ```javascript
@@ -92,6 +90,8 @@ myRepos.forEach((repo) => {
 ```
 
 ----
+
+<img src="images/thankyou.png" width=30% height=30%/>
 
 <sub><strong>If you find a bug or think something could be better, please file an issue!</strong></sub>
 
